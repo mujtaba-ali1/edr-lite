@@ -1,0 +1,7 @@
+rules:
+  - id: block-mimikatz
+    process_name: ["mimikatz.exe"]
+    severity: high
+    response:
+      alert: true
+      terminate: true
