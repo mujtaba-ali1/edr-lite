@@ -62,3 +62,321 @@
 {"ts": "2025-12-27T09:32:10.624338+00:00", "type": "process_terminated", "pid": 24048, "name": "<unknown>"}
 {"ts": "2025-12-27T09:32:15.667807+00:00", "type": "process_terminated", "pid": 22612, "name": "backgroundTaskHost.exe"}
 {"ts": "2025-12-27T09:32:20.667223+00:00", "type": "service_stop"}
+{"ts": "2025-12-27T09:47:34.980341+00:00", "type": "service_start", "interval": 1.0, "dry_run": true}
+{"ts": "2025-12-27T09:47:42.440293+00:00", "type": "process_terminated", "pid": 24976, "name": "SearchProtocolHost.exe"}
+{"ts": "2025-12-27T09:47:42.441248+00:00", "type": "process_terminated", "pid": 7804, "name": "SearchFilterHost.exe"}
+{"ts": "2025-12-27T09:47:43.453027+00:00", "type": "process_created", "pid": 20792, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:47:43.459834+00:00", "type": "process_created", "pid": 2844, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:47:44.465170+00:00", "type": "process_terminated", "pid": 20792, "name": "docker.exe"}
+{"ts": "2025-12-27T09:47:44.465594+00:00", "type": "process_terminated", "pid": 18668, "name": "RuntimeBroker.exe"}
+{"ts": "2025-12-27T09:47:44.465930+00:00", "type": "process_terminated", "pid": 2844, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:47:56.558934+00:00", "type": "process_created", "pid": 18064, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:47:56.566428+00:00", "type": "process_created", "pid": 27968, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:47:57.571288+00:00", "type": "process_terminated", "pid": 18064, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:47:57.571644+00:00", "type": "process_terminated", "pid": 27968, "name": "docker.exe"}
+{"ts": "2025-12-27T09:48:00.603780+00:00", "type": "process_created", "pid": 8792, "name": "RuntimeBroker.exe", "parent_name": "svchost.exe", "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:48:00.613875+00:00", "type": "process_created", "pid": 2344, "name": "backgroundTaskHost.exe", "parent_name": "svchost.exe", "cmdline": "C:\\WINDOWS\\system32\\backgroundTaskHost.exe -ServerName:App.AppXrtfr0c1qqwwn37c1x1br7dcmq4wkjgba.mca", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:48:00.623151+00:00", "type": "process_created", "pid": 8204, "name": "ScreenClippingHost.exe", "parent_name": "svchost.exe", "cmdline": "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\ScreenClippingHost.exe -ServerName:ScreenClipping.AppX6726kd2wrry6c6n8nc57a1zn08dmzmbt.mca", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:48:07.706809+00:00", "type": "process_created", "pid": 27164, "name": "RuntimeBroker.exe", "parent_name": "svchost.exe", "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:48:07.707583+00:00", "type": "process_terminated", "pid": 8204, "name": "ScreenClippingHost.exe"}
+{"ts": "2025-12-27T09:48:09.725388+00:00", "type": "process_created", "pid": 25256, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:48:09.731560+00:00", "type": "process_created", "pid": 19172, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:48:10.737072+00:00", "type": "process_terminated", "pid": 25256, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:48:10.737478+00:00", "type": "process_terminated", "pid": 19172, "name": "docker.exe"}
+{"ts": "2025-12-27T09:48:22.826057+00:00", "type": "process_created", "pid": 19760, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:48:22.832121+00:00", "type": "process_created", "pid": 6300, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:48:23.846844+00:00", "type": "process_created", "pid": 8576, "name": "ScreenClippingHost.exe", "parent_name": "svchost.exe", "cmdline": "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\ScreenClippingHost.exe -ServerName:ScreenClipping.AppX6726kd2wrry6c6n8nc57a1zn08dmzmbt.mca", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:48:23.847260+00:00", "type": "process_terminated", "pid": 19760, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:48:23.847507+00:00", "type": "process_terminated", "pid": 6300, "name": "docker.exe"}
+{"ts": "2025-12-27T09:48:30.891948+00:00", "type": "process_terminated", "pid": 8576, "name": "ScreenClippingHost.exe"}
+{"ts": "2025-12-27T09:48:35.954350+00:00", "type": "process_created", "pid": 22120, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:48:35.962704+00:00", "type": "process_created", "pid": 7648, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:48:36.968691+00:00", "type": "process_terminated", "pid": 22120, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:48:36.968995+00:00", "type": "process_terminated", "pid": 7648, "name": "docker.exe"}
+{"ts": "2025-12-27T09:48:49.054650+00:00", "type": "process_created", "pid": 26264, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:48:49.060908+00:00", "type": "process_created", "pid": 11580, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:48:50.066274+00:00", "type": "process_terminated", "pid": 26264, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:48:50.066631+00:00", "type": "process_terminated", "pid": 11580, "name": "docker.exe"}
+{"ts": "2025-12-27T09:48:55.098362+00:00", "type": "process_created", "pid": 696, "name": "conhost.exe", "parent_name": "cmd.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:48:55.106676+00:00", "type": "process_created", "pid": 22084, "name": "cmd.exe", "parent_name": "Code.exe", "cmdline": "C:\\WINDOWS\\system32\\cmd.exe /d /s /c kubectl config view -o json", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:48:56.115342+00:00", "type": "process_terminated", "pid": 696, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:48:56.115811+00:00", "type": "process_terminated", "pid": 22084, "name": "cmd.exe"}
+{"ts": "2025-12-27T09:49:04.169794+00:00", "type": "process_created", "pid": 28168, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:49:04.176988+00:00", "type": "process_created", "pid": 13192, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:49:04.947891+00:00", "type": "service_stop"}
+{"ts": "2025-12-27T09:49:16.426437+00:00", "type": "service_start", "interval": 1.0, "dry_run": true}
+{"ts": "2025-12-27T09:49:23.937013+00:00", "type": "process_created", "pid": 23704, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:49:23.944216+00:00", "type": "process_created", "pid": 11956, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:49:24.949448+00:00", "type": "process_terminated", "pid": 23704, "name": "docker.exe"}
+{"ts": "2025-12-27T09:49:24.949889+00:00", "type": "process_terminated", "pid": 11956, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:49:27.994721+00:00", "type": "process_created", "pid": 12256, "name": "RuntimeBroker.exe", "parent_name": "svchost.exe", "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:49:28.004702+00:00", "type": "process_created", "pid": 17904, "name": "FileCoAuth.exe", "parent_name": "svchost.exe", "cmdline": "C:\\Program Files\\Microsoft OneDrive\\25.222.1112.0002\\FileCoAuth.exe -Embedding", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:49:30.038657+00:00", "type": "process_created", "pid": 6680, "name": "svchost.exe", "parent_name": "services.exe", "cmdline": "", "username": ""}
+{"ts": "2025-12-27T09:49:34.091969+00:00", "type": "process_created", "pid": 24668, "name": "svchost.exe", "parent_name": "services.exe", "cmdline": "", "username": ""}
+{"ts": "2025-12-27T09:49:34.100024+00:00", "type": "process_created", "pid": 24396, "name": "firefox.exe", "parent_name": "firefox.exe", "cmdline": "C:\\Program Files\\Mozilla Firefox\\firefox.exe -contentproc -isForBrowser -prefsHandle 14068:44135 -prefMapHandle 14060:287235 -jsInitHandle 11360:223356 -parentBuildID 20251217121356 -ipcHandle 5992 -initialChannelId {1423f53a-6ee2-4dfc-9259-c1cc67058dfa} -parentPid 16020 -crashReporter \\\\.\\pipe\\gecko-crash-server-pipe.16020 -crashHelper 8732 -win32kLockedDown -appDir C:\\Program Files\\Mozilla Firefox\\browser - 353 tab", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:49:34.100396+00:00", "type": "process_terminated", "pid": 17904, "name": "FileCoAuth.exe"}
+{"ts": "2025-12-27T09:49:37.122156+00:00", "type": "process_created", "pid": 26168, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:49:37.129129+00:00", "type": "process_created", "pid": 17652, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:49:38.135882+00:00", "type": "process_terminated", "pid": 26168, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:49:38.136279+00:00", "type": "process_terminated", "pid": 17652, "name": "docker.exe"}
+{"ts": "2025-12-27T09:49:50.235693+00:00", "type": "process_created", "pid": 8176, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:49:50.243044+00:00", "type": "process_created", "pid": 26412, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:49:51.258333+00:00", "type": "process_terminated", "pid": 8176, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:49:51.259256+00:00", "type": "process_terminated", "pid": 26412, "name": "docker.exe"}
+{"ts": "2025-12-27T09:49:54.302978+00:00", "type": "process_created", "pid": 4936, "name": "ScreenClippingHost.exe", "parent_name": "svchost.exe", "cmdline": "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\ScreenClippingHost.exe -ServerName:ScreenClipping.AppX6726kd2wrry6c6n8nc57a1zn08dmzmbt.mca", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:49:57.324052+00:00", "type": "process_terminated", "pid": 4936, "name": "ScreenClippingHost.exe"}
+{"ts": "2025-12-27T09:50:03.393540+00:00", "type": "process_created", "pid": 2228, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:50:03.401182+00:00", "type": "process_created", "pid": 27412, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:50:04.407728+00:00", "type": "process_terminated", "pid": 2228, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:50:04.408225+00:00", "type": "process_terminated", "pid": 24668, "name": "svchost.exe"}
+{"ts": "2025-12-27T09:50:04.408554+00:00", "type": "process_terminated", "pid": 27412, "name": "docker.exe"}
+{"ts": "2025-12-27T09:50:10.448491+00:00", "type": "process_terminated", "pid": 12256, "name": "RuntimeBroker.exe"}
+{"ts": "2025-12-27T09:50:16.502369+00:00", "type": "process_created", "pid": 1992, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:50:16.510710+00:00", "type": "process_created", "pid": 28012, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:50:17.517741+00:00", "type": "process_terminated", "pid": 1992, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:50:17.518361+00:00", "type": "process_terminated", "pid": 28012, "name": "docker.exe"}
+{"ts": "2025-12-27T09:50:31.603591+00:00", "type": "process_created", "pid": 16244, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:50:31.611291+00:00", "type": "process_created", "pid": 25884, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:50:32.617201+00:00", "type": "process_terminated", "pid": 16244, "name": "docker.exe"}
+{"ts": "2025-12-27T09:50:32.617561+00:00", "type": "process_terminated", "pid": 25884, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:50:37.645321+00:00", "type": "process_terminated", "pid": 26716, "name": "RuntimeBroker.exe"}
+{"ts": "2025-12-27T09:50:44.691321+00:00", "type": "process_created", "pid": 23544, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:50:44.699707+00:00", "type": "process_created", "pid": 14744, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:50:45.705626+00:00", "type": "process_terminated", "pid": 23544, "name": "docker.exe"}
+{"ts": "2025-12-27T09:50:45.706026+00:00", "type": "process_terminated", "pid": 14744, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:50:57.806662+00:00", "type": "process_created", "pid": 26088, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:50:57.813786+00:00", "type": "process_created", "pid": 12012, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:50:57.814125+00:00", "type": "process_terminated", "pid": 2344, "name": "backgroundTaskHost.exe"}
+{"ts": "2025-12-27T09:50:58.823786+00:00", "type": "process_terminated", "pid": 26088, "name": "docker.exe"}
+{"ts": "2025-12-27T09:50:58.824619+00:00", "type": "process_terminated", "pid": 12012, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:51:10.918831+00:00", "type": "process_created", "pid": 880, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:51:10.927642+00:00", "type": "process_created", "pid": 19004, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:51:11.933382+00:00", "type": "process_terminated", "pid": 880, "name": "docker.exe"}
+{"ts": "2025-12-27T09:51:11.933765+00:00", "type": "process_terminated", "pid": 19004, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:51:24.019646+00:00", "type": "process_created", "pid": 7588, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:51:24.028259+00:00", "type": "process_created", "pid": 12380, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:51:25.033928+00:00", "type": "process_terminated", "pid": 7588, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:51:25.034324+00:00", "type": "process_terminated", "pid": 12380, "name": "docker.exe"}
+{"ts": "2025-12-27T09:51:27.044792+00:00", "type": "process_terminated", "pid": 27164, "name": "RuntimeBroker.exe"}
+{"ts": "2025-12-27T09:51:30.069422+00:00", "type": "process_created", "pid": 23356, "name": "conhost.exe", "parent_name": "git.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:51:30.078976+00:00", "type": "process_created", "pid": 16872, "name": "git.exe", "parent_name": "", "cmdline": "C:\\Program Files\\Git\\cmd\\git.exe config --get commit.template", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:51:30.079391+00:00", "type": "process_created", "pid": 24364, "name": "<unknown>", "error": "NoSuchProcess or AccessDenied"}
+{"ts": "2025-12-27T09:51:30.093707+00:00", "type": "process_created", "pid": 6476, "name": "<unknown>", "error": "NoSuchProcess or AccessDenied"}
+{"ts": "2025-12-27T09:51:30.094190+00:00", "type": "process_created", "pid": 10992, "name": "<unknown>", "error": "NoSuchProcess or AccessDenied"}
+{"ts": "2025-12-27T09:51:30.094488+00:00", "type": "process_created", "pid": 9404, "name": "<unknown>", "error": "NoSuchProcess or AccessDenied"}
+{"ts": "2025-12-27T09:51:31.100374+00:00", "type": "process_terminated", "pid": 23356, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:51:31.100733+00:00", "type": "process_terminated", "pid": 16872, "name": "git.exe"}
+{"ts": "2025-12-27T09:51:31.100959+00:00", "type": "process_terminated", "pid": 24364, "name": "<unknown>"}
+{"ts": "2025-12-27T09:51:31.101174+00:00", "type": "process_terminated", "pid": 6476, "name": "<unknown>"}
+{"ts": "2025-12-27T09:51:31.101377+00:00", "type": "process_terminated", "pid": 10992, "name": "<unknown>"}
+{"ts": "2025-12-27T09:51:31.101684+00:00", "type": "process_terminated", "pid": 9404, "name": "<unknown>"}
+{"ts": "2025-12-27T09:51:52.224030+00:00", "type": "process_created", "pid": 22440, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:51:53.229424+00:00", "type": "process_terminated", "pid": 22440, "name": "docker.exe"}
+{"ts": "2025-12-27T09:52:03.283090+00:00", "type": "process_terminated", "pid": 23476, "name": "firefox.exe"}
+{"ts": "2025-12-27T09:52:04.288763+00:00", "type": "process_terminated", "pid": 18424, "name": "firefox.exe"}
+{"ts": "2025-12-27T09:52:05.301307+00:00", "type": "process_created", "pid": 6220, "name": "firefox.exe", "parent_name": "firefox.exe", "cmdline": "C:\\Program Files\\Mozilla Firefox\\firefox.exe -contentproc -isForBrowser -prefsHandle 3244:44136 -prefMapHandle 14700:287235 -jsInitHandle 3880:223356 -parentBuildID 20251217121356 -ipcHandle 7812 -initialChannelId {a66f0240-8aea-4d23-8427-9eab09ed7550} -parentPid 16020 -crashReporter \\\\.\\pipe\\gecko-crash-server-pipe.16020 -crashHelper 12192 -win32kLockedDown -appDir C:\\Program Files\\Mozilla Firefox\\browser - 354 tab", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:52:05.301782+00:00", "type": "process_terminated", "pid": 22908, "name": "firefox.exe"}
+{"ts": "2025-12-27T09:52:05.302139+00:00", "type": "process_terminated", "pid": 26788, "name": "firefox.exe"}
+{"ts": "2025-12-27T09:52:06.308960+00:00", "type": "process_terminated", "pid": 20964, "name": "firefox.exe"}
+{"ts": "2025-12-27T09:52:06.309309+00:00", "type": "process_terminated", "pid": 18196, "name": "firefox.exe"}
+{"ts": "2025-12-27T09:52:07.321207+00:00", "type": "process_created", "pid": 14376, "name": "firefox.exe", "parent_name": "firefox.exe", "cmdline": "C:\\Program Files\\Mozilla Firefox\\firefox.exe -contentproc -isForBrowser -prefsHandle 13940:44136 -prefMapHandle 9924:287235 -jsInitHandle 11808:223356 -parentBuildID 20251217121356 -ipcHandle 14604 -initialChannelId {ccc324d9-7b37-463a-94b2-35ae3894448e} -parentPid 16020 -crashReporter \\\\.\\pipe\\gecko-crash-server-pipe.16020 -crashHelper 8188 -win32kLockedDown -appDir C:\\Program Files\\Mozilla Firefox\\browser - 355 tab", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:52:07.331943+00:00", "type": "process_created", "pid": 28580, "name": "backgroundTaskHost.exe", "parent_name": "svchost.exe", "cmdline": "C:\\WINDOWS\\system32\\backgroundTaskHost.exe -ServerName:Global.DesktopSpotlight.AppXz2j21w56bgxkgsjhtn7zkjsepq96erz2.mca", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:52:07.342508+00:00", "type": "process_created", "pid": 28012, "name": "backgroundTaskHost.exe", "parent_name": "svchost.exe", "cmdline": "C:\\WINDOWS\\system32\\backgroundTaskHost.exe -ServerName:ShellFeedsUI.AppXnj65k2d1a1rnztt2t2nng5ctmk3e76pn.mca", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:52:07.352480+00:00", "type": "process_created", "pid": 12992, "name": "RuntimeBroker.exe", "parent_name": "svchost.exe", "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:52:09.381001+00:00", "type": "process_created", "pid": 28440, "name": "svchost.exe", "parent_name": "services.exe", "cmdline": "", "username": ""}
+{"ts": "2025-12-27T09:52:14.417890+00:00", "type": "process_created", "pid": 1700, "name": "Zoom.exe", "parent_name": "svchost.exe", "cmdline": "C:\\Users\\Ali\\AppData\\Roaming\\Zoom\\bin\\Zoom.exe --action=UpdateSchedule", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:52:15.442378+00:00", "type": "process_created", "pid": 11528, "name": "WmiPrvSE.exe", "parent_name": "svchost.exe", "cmdline": "", "username": ""}
+{"ts": "2025-12-27T09:52:17.452347+00:00", "type": "process_terminated", "pid": 1700, "name": "Zoom.exe"}
+{"ts": "2025-12-27T09:52:18.464060+00:00", "type": "process_created", "pid": 17632, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:52:18.471107+00:00", "type": "process_created", "pid": 21784, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:52:19.476260+00:00", "type": "process_terminated", "pid": 17632, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:52:19.476639+00:00", "type": "process_terminated", "pid": 21784, "name": "docker.exe"}
+{"ts": "2025-12-27T09:52:31.541885+00:00", "type": "process_created", "pid": 27776, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:52:31.549147+00:00", "type": "process_created", "pid": 25464, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:52:32.554388+00:00", "type": "process_terminated", "pid": 27776, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:52:32.554749+00:00", "type": "process_terminated", "pid": 25464, "name": "docker.exe"}
+{"ts": "2025-12-27T09:52:34.564663+00:00", "type": "process_terminated", "pid": 12728, "name": "firefox.exe"}
+{"ts": "2025-12-27T09:52:36.575970+00:00", "type": "process_terminated", "pid": 14128, "name": "firefox.exe"}
+{"ts": "2025-12-27T09:52:44.624283+00:00", "type": "process_created", "pid": 19632, "name": "conhost.exe", "parent_name": "", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:52:44.624659+00:00", "type": "process_created", "pid": 12236, "name": "<unknown>", "error": "NoSuchProcess or AccessDenied"}
+{"ts": "2025-12-27T09:52:45.629742+00:00", "type": "process_terminated", "pid": 19632, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:52:45.630126+00:00", "type": "process_terminated", "pid": 12236, "name": "<unknown>"}
+{"ts": "2025-12-27T09:52:48.652386+00:00", "type": "process_created", "pid": 21552, "name": "python.exe", "parent_name": "powershell.exe", "cmdline": "C:\\Users\\Ali\\edr-lite-1\\.venv\\Scripts\\python.exe ui/app.py", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:52:48.659481+00:00", "type": "process_created", "pid": 22416, "name": "python.exe", "parent_name": "python.exe", "cmdline": "C:\\Users\\Ali\\edr-lite-1\\.venv\\Scripts\\python.exe ui/app.py", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:52:49.671980+00:00", "type": "process_created", "pid": 12392, "name": "python.exe", "parent_name": "python.exe", "cmdline": "C:\\Users\\Ali\\edr-lite-1\\.venv\\Scripts\\python.exe ui/app.py", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:52:49.679054+00:00", "type": "process_created", "pid": 28552, "name": "python.exe", "parent_name": "python.exe", "cmdline": "C:\\Users\\Ali\\edr-lite-1\\.venv\\Scripts\\python.exe ui/app.py", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:52:59.766216+00:00", "type": "process_created", "pid": 13560, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:52:59.774661+00:00", "type": "process_created", "pid": 10728, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:53:00.779715+00:00", "type": "process_terminated", "pid": 13560, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:53:00.780071+00:00", "type": "process_terminated", "pid": 10728, "name": "docker.exe"}
+{"ts": "2025-12-27T09:53:07.835521+00:00", "type": "process_terminated", "pid": 28580, "name": "backgroundTaskHost.exe"}
+{"ts": "2025-12-27T09:53:08.841639+00:00", "type": "process_terminated", "pid": 28012, "name": "backgroundTaskHost.exe"}
+{"ts": "2025-12-27T09:53:12.870877+00:00", "type": "process_created", "pid": 27008, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:53:12.878043+00:00", "type": "process_created", "pid": 3084, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:53:13.884458+00:00", "type": "process_terminated", "pid": 27008, "name": "docker.exe"}
+{"ts": "2025-12-27T09:53:13.884973+00:00", "type": "process_terminated", "pid": 3084, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:53:15.907419+00:00", "type": "process_created", "pid": 17508, "name": "ScreenClippingHost.exe", "parent_name": "svchost.exe", "cmdline": "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\ScreenClippingHost.exe -ServerName:ScreenClipping.AppX6726kd2wrry6c6n8nc57a1zn08dmzmbt.mca", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:53:16.923354+00:00", "type": "process_created", "pid": 10096, "name": "backgroundTaskHost.exe", "parent_name": "svchost.exe", "cmdline": "C:\\WINDOWS\\system32\\backgroundTaskHost.exe -ServerName:App.AppXrtfr0c1qqwwn37c1x1br7dcmq4wkjgba.mca", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:53:26.005050+00:00", "type": "process_created", "pid": 16276, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:53:26.014589+00:00", "type": "process_created", "pid": 26412, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:53:27.030419+00:00", "type": "process_created", "pid": 26068, "name": "RuntimeBroker.exe", "parent_name": "svchost.exe", "cmdline": "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:53:27.030780+00:00", "type": "process_terminated", "pid": 16276, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:53:27.031035+00:00", "type": "process_terminated", "pid": 17508, "name": "ScreenClippingHost.exe"}
+{"ts": "2025-12-27T09:53:27.031362+00:00", "type": "process_terminated", "pid": 26412, "name": "docker.exe"}
+{"ts": "2025-12-27T09:53:29.054602+00:00", "type": "process_created", "pid": 23472, "name": "Zoom.exe", "parent_name": "svchost.exe", "cmdline": "C:\\Users\\Ali\\AppData\\Roaming\\Zoom\\bin\\Zoom.exe --action=UpdateSchedule", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:53:31.073269+00:00", "type": "process_terminated", "pid": 23472, "name": "Zoom.exe"}
+{"ts": "2025-12-27T09:53:41.150550+00:00", "type": "process_created", "pid": 22008, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:53:41.158792+00:00", "type": "process_created", "pid": 18856, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:53:42.165779+00:00", "type": "process_terminated", "pid": 22008, "name": "docker.exe"}
+{"ts": "2025-12-27T09:53:42.166155+00:00", "type": "process_terminated", "pid": 18856, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:53:45.202476+00:00", "type": "process_created", "pid": 12352, "name": "conhost.exe", "parent_name": "git.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:53:45.210400+00:00", "type": "process_created", "pid": 4740, "name": "git.exe", "parent_name": "git.exe", "cmdline": "git.exe for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname)", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:53:45.214350+00:00", "type": "process_created", "pid": 7724, "name": "<unknown>", "error": "NoSuchProcess or AccessDenied"}
+{"ts": "2025-12-27T09:53:45.214803+00:00", "type": "process_created", "pid": 27980, "name": "<unknown>", "error": "NoSuchProcess or AccessDenied"}
+{"ts": "2025-12-27T09:53:45.215108+00:00", "type": "process_created", "pid": 2096, "name": "<unknown>", "error": "NoSuchProcess or AccessDenied"}
+{"ts": "2025-12-27T09:53:45.215376+00:00", "type": "process_created", "pid": 28368, "name": "<unknown>", "error": "NoSuchProcess or AccessDenied"}
+{"ts": "2025-12-27T09:53:46.228765+00:00", "type": "process_terminated", "pid": 12352, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:53:46.229688+00:00", "type": "process_terminated", "pid": 4740, "name": "git.exe"}
+{"ts": "2025-12-27T09:53:46.230639+00:00", "type": "process_terminated", "pid": 7724, "name": "<unknown>"}
+{"ts": "2025-12-27T09:53:46.231404+00:00", "type": "process_terminated", "pid": 27980, "name": "<unknown>"}
+{"ts": "2025-12-27T09:53:46.232278+00:00", "type": "process_terminated", "pid": 2096, "name": "<unknown>"}
+{"ts": "2025-12-27T09:53:46.233050+00:00", "type": "process_terminated", "pid": 28368, "name": "<unknown>"}
+{"ts": "2025-12-27T09:53:54.288202+00:00", "type": "process_created", "pid": 23896, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:53:54.295285+00:00", "type": "process_created", "pid": 23028, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:53:55.301971+00:00", "type": "process_terminated", "pid": 23896, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:53:55.302353+00:00", "type": "process_terminated", "pid": 23028, "name": "docker.exe"}
+{"ts": "2025-12-27T09:53:57.312532+00:00", "type": "process_terminated", "pid": 12992, "name": "RuntimeBroker.exe"}
+{"ts": "2025-12-27T09:54:07.400558+00:00", "type": "process_created", "pid": 14312, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:54:07.410387+00:00", "type": "process_created", "pid": 25388, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:54:08.426169+00:00", "type": "process_terminated", "pid": 14312, "name": "docker.exe"}
+{"ts": "2025-12-27T09:54:08.427390+00:00", "type": "process_terminated", "pid": 25388, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:54:20.540556+00:00", "type": "process_created", "pid": 17356, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:54:20.547460+00:00", "type": "process_created", "pid": 11172, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:54:21.557016+00:00", "type": "process_terminated", "pid": 17356, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:54:21.557745+00:00", "type": "process_terminated", "pid": 11172, "name": "docker.exe"}
+{"ts": "2025-12-27T09:54:26.600205+00:00", "type": "process_terminated", "pid": 10096, "name": "backgroundTaskHost.exe"}
+{"ts": "2025-12-27T09:54:34.664774+00:00", "type": "process_created", "pid": 10068, "name": "svchost.exe", "parent_name": "services.exe", "cmdline": "", "username": ""}
+{"ts": "2025-12-27T09:54:35.679889+00:00", "type": "process_created", "pid": 15680, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:54:35.687122+00:00", "type": "process_created", "pid": 12028, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:54:36.692639+00:00", "type": "process_terminated", "pid": 15680, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:54:36.692965+00:00", "type": "process_terminated", "pid": 12028, "name": "docker.exe"}
+{"ts": "2025-12-27T09:54:41.737403+00:00", "type": "process_created", "pid": 9280, "name": "git.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Git\\cmd\\git.exe for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:54:41.747797+00:00", "type": "process_created", "pid": 18844, "name": "conhost.exe", "parent_name": "git.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:54:41.756747+00:00", "type": "process_created", "pid": 15152, "name": "conhost.exe", "parent_name": "git.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:54:41.764074+00:00", "type": "process_created", "pid": 10828, "name": "git.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Git\\cmd\\git.exe config --get commit.template", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:54:42.775461+00:00", "type": "process_terminated", "pid": 9280, "name": "git.exe"}
+{"ts": "2025-12-27T09:54:42.776104+00:00", "type": "process_terminated", "pid": 18844, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:54:42.776569+00:00", "type": "process_terminated", "pid": 15152, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:54:42.777072+00:00", "type": "process_terminated", "pid": 10828, "name": "git.exe"}
+{"ts": "2025-12-27T09:54:48.832772+00:00", "type": "process_created", "pid": 27040, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:54:48.841601+00:00", "type": "process_created", "pid": 16204, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:54:49.846878+00:00", "type": "process_terminated", "pid": 27040, "name": "docker.exe"}
+{"ts": "2025-12-27T09:54:49.847226+00:00", "type": "process_terminated", "pid": 16204, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:54:56.897031+00:00", "type": "process_terminated", "pid": 26068, "name": "RuntimeBroker.exe"}
+{"ts": "2025-12-27T09:54:59.920362+00:00", "type": "process_terminated", "pid": 11528, "name": "WmiPrvSE.exe"}
+{"ts": "2025-12-27T09:55:01.945234+00:00", "type": "process_created", "pid": 19504, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:55:01.953679+00:00", "type": "process_created", "pid": 3156, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:55:02.968652+00:00", "type": "process_terminated", "pid": 19504, "name": "docker.exe"}
+{"ts": "2025-12-27T09:55:02.969571+00:00", "type": "process_terminated", "pid": 3156, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:55:03.975164+00:00", "type": "process_terminated", "pid": 10068, "name": "svchost.exe"}
+{"ts": "2025-12-27T09:55:15.057945+00:00", "type": "process_created", "pid": 16872, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:55:15.065028+00:00", "type": "process_created", "pid": 8100, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:55:16.071169+00:00", "type": "process_terminated", "pid": 16872, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:55:16.071565+00:00", "type": "process_terminated", "pid": 8100, "name": "docker.exe"}
+{"ts": "2025-12-27T09:55:28.154369+00:00", "type": "process_created", "pid": 18248, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:55:28.161683+00:00", "type": "process_created", "pid": 16892, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:55:29.166563+00:00", "type": "process_terminated", "pid": 18248, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:55:29.166921+00:00", "type": "process_terminated", "pid": 16892, "name": "docker.exe"}
+{"ts": "2025-12-27T09:55:41.248975+00:00", "type": "process_created", "pid": 15896, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:55:41.256046+00:00", "type": "process_created", "pid": 10340, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:55:42.261399+00:00", "type": "process_terminated", "pid": 15896, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:55:42.261765+00:00", "type": "process_terminated", "pid": 10340, "name": "docker.exe"}
+{"ts": "2025-12-27T09:55:54.340538+00:00", "type": "process_created", "pid": 25392, "name": "conhost.exe", "parent_name": "", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:55:54.340957+00:00", "type": "process_created", "pid": 2700, "name": "<unknown>", "error": "NoSuchProcess or AccessDenied"}
+{"ts": "2025-12-27T09:55:55.347292+00:00", "type": "process_terminated", "pid": 25392, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:55:55.347638+00:00", "type": "process_terminated", "pid": 2700, "name": "<unknown>"}
+{"ts": "2025-12-27T09:56:07.454111+00:00", "type": "process_created", "pid": 11376, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:56:07.458537+00:00", "type": "process_created", "pid": 11580, "name": "<unknown>", "error": "NoSuchProcess or AccessDenied"}
+{"ts": "2025-12-27T09:56:07.458994+00:00", "type": "process_terminated", "pid": 28440, "name": "svchost.exe"}
+{"ts": "2025-12-27T09:56:08.466289+00:00", "type": "process_terminated", "pid": 11376, "name": "docker.exe"}
+{"ts": "2025-12-27T09:56:08.466650+00:00", "type": "process_terminated", "pid": 11580, "name": "<unknown>"}
+{"ts": "2025-12-27T09:56:20.541192+00:00", "type": "process_created", "pid": 1412, "name": "<unknown>", "error": "NoSuchProcess or AccessDenied"}
+{"ts": "2025-12-27T09:56:21.547600+00:00", "type": "process_terminated", "pid": 1412, "name": "<unknown>"}
+{"ts": "2025-12-27T09:56:35.635258+00:00", "type": "process_created", "pid": 12508, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:56:35.643739+00:00", "type": "process_created", "pid": 27956, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:56:36.648871+00:00", "type": "process_terminated", "pid": 12508, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:56:36.649272+00:00", "type": "process_terminated", "pid": 27956, "name": "docker.exe"}
+{"ts": "2025-12-27T09:56:48.732729+00:00", "type": "process_created", "pid": 20832, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:56:48.739794+00:00", "type": "process_created", "pid": 1700, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:56:49.744760+00:00", "type": "process_terminated", "pid": 20832, "name": "docker.exe"}
+{"ts": "2025-12-27T09:56:49.745118+00:00", "type": "process_terminated", "pid": 1700, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:57:01.848142+00:00", "type": "process_created", "pid": 23544, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:57:01.855229+00:00", "type": "process_created", "pid": 24792, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:57:02.862993+00:00", "type": "process_terminated", "pid": 23544, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:57:02.863651+00:00", "type": "process_terminated", "pid": 24792, "name": "docker.exe"}
+{"ts": "2025-12-27T09:57:14.961315+00:00", "type": "process_created", "pid": 15940, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:57:14.970131+00:00", "type": "process_created", "pid": 6916, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:57:15.987130+00:00", "type": "process_terminated", "pid": 15940, "name": "docker.exe"}
+{"ts": "2025-12-27T09:57:15.988210+00:00", "type": "process_terminated", "pid": 6916, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:57:28.077718+00:00", "type": "process_created", "pid": 26816, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:57:28.084640+00:00", "type": "process_created", "pid": 22660, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:57:29.092552+00:00", "type": "process_terminated", "pid": 26816, "name": "docker.exe"}
+{"ts": "2025-12-27T09:57:29.093002+00:00", "type": "process_terminated", "pid": 22660, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:57:41.231219+00:00", "type": "process_created", "pid": 24408, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:57:41.235036+00:00", "type": "process_created", "pid": 20676, "name": "<unknown>", "error": "NoSuchProcess or AccessDenied"}
+{"ts": "2025-12-27T09:57:42.249430+00:00", "type": "process_terminated", "pid": 24408, "name": "docker.exe"}
+{"ts": "2025-12-27T09:57:42.250585+00:00", "type": "process_terminated", "pid": 20676, "name": "<unknown>"}
+{"ts": "2025-12-27T09:57:56.366945+00:00", "type": "process_created", "pid": 25744, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:57:56.374575+00:00", "type": "process_created", "pid": 17768, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:57:57.381594+00:00", "type": "process_terminated", "pid": 25744, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:57:57.381957+00:00", "type": "process_terminated", "pid": 17768, "name": "docker.exe"}
+{"ts": "2025-12-27T09:58:09.494429+00:00", "type": "process_created", "pid": 27872, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:58:09.503261+00:00", "type": "process_created", "pid": 4504, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:58:10.513127+00:00", "type": "process_terminated", "pid": 27872, "name": "docker.exe"}
+{"ts": "2025-12-27T09:58:10.513892+00:00", "type": "process_terminated", "pid": 4504, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:58:22.623998+00:00", "type": "process_created", "pid": 15324, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:58:22.630980+00:00", "type": "process_created", "pid": 3156, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:58:23.637519+00:00", "type": "process_terminated", "pid": 15324, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:58:23.638057+00:00", "type": "process_terminated", "pid": 3156, "name": "docker.exe"}
+{"ts": "2025-12-27T09:58:35.736462+00:00", "type": "process_created", "pid": 17432, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:58:35.743451+00:00", "type": "process_created", "pid": 18832, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:58:36.754900+00:00", "type": "process_terminated", "pid": 17432, "name": "docker.exe"}
+{"ts": "2025-12-27T09:58:36.755777+00:00", "type": "process_terminated", "pid": 18832, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:58:40.787605+00:00", "type": "process_terminated", "pid": 4752, "name": "audiodg.exe"}
+{"ts": "2025-12-27T09:58:48.840509+00:00", "type": "process_created", "pid": 18248, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:58:48.848946+00:00", "type": "process_created", "pid": 7276, "name": "conhost.exe", "parent_name": "", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:58:49.854413+00:00", "type": "process_terminated", "pid": 18248, "name": "docker.exe"}
+{"ts": "2025-12-27T09:58:49.854844+00:00", "type": "process_terminated", "pid": 7276, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:59:03.932986+00:00", "type": "process_created", "pid": 18984, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:59:03.946459+00:00", "type": "process_created", "pid": 24868, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:59:04.951759+00:00", "type": "process_terminated", "pid": 18984, "name": "docker.exe"}
+{"ts": "2025-12-27T09:59:04.952123+00:00", "type": "process_terminated", "pid": 24868, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:59:17.043376+00:00", "type": "process_created", "pid": 13424, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:59:17.050891+00:00", "type": "process_created", "pid": 19320, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:59:18.061318+00:00", "type": "process_terminated", "pid": 13424, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:59:18.062090+00:00", "type": "process_terminated", "pid": 19320, "name": "docker.exe"}
+{"ts": "2025-12-27T09:59:28.157586+00:00", "type": "process_created", "pid": 4704, "name": "FileCoAuth.exe", "parent_name": "svchost.exe", "cmdline": "C:\\Program Files\\Microsoft OneDrive\\25.222.1112.0002\\FileCoAuth.exe -Embedding", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:59:30.174188+00:00", "type": "process_created", "pid": 23568, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:59:30.181280+00:00", "type": "process_created", "pid": 22328, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:59:30.181673+00:00", "type": "process_terminated", "pid": 6680, "name": "svchost.exe"}
+{"ts": "2025-12-27T09:59:31.189906+00:00", "type": "process_terminated", "pid": 23568, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:59:31.190580+00:00", "type": "process_terminated", "pid": 22328, "name": "docker.exe"}
+{"ts": "2025-12-27T09:59:34.228459+00:00", "type": "process_created", "pid": 5956, "name": "svchost.exe", "parent_name": "services.exe", "cmdline": "", "username": ""}
+{"ts": "2025-12-27T09:59:34.228828+00:00", "type": "process_terminated", "pid": 4704, "name": "FileCoAuth.exe"}
+{"ts": "2025-12-27T09:59:43.315464+00:00", "type": "process_created", "pid": 2584, "name": "conhost.exe", "parent_name": "", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:59:43.316057+00:00", "type": "process_created", "pid": 16900, "name": "<unknown>", "error": "NoSuchProcess or AccessDenied"}
+{"ts": "2025-12-27T09:59:44.321603+00:00", "type": "process_terminated", "pid": 2584, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:59:44.322013+00:00", "type": "process_terminated", "pid": 16900, "name": "<unknown>"}
+{"ts": "2025-12-27T09:59:45.335619+00:00", "type": "process_created", "pid": 23104, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:59:45.342999+00:00", "type": "process_created", "pid": 10696, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:59:46.348100+00:00", "type": "process_terminated", "pid": 23104, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:59:46.348456+00:00", "type": "process_terminated", "pid": 10696, "name": "docker.exe"}
+{"ts": "2025-12-27T09:59:55.433675+00:00", "type": "process_created", "pid": 24736, "name": "git.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Git\\cmd\\git.exe status -z -uall", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:59:55.442880+00:00", "type": "process_created", "pid": 17828, "name": "conhost.exe", "parent_name": "git.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:59:55.454112+00:00", "type": "process_created", "pid": 11940, "name": "git.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Git\\cmd\\git.exe for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname)", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:59:55.468147+00:00", "type": "process_created", "pid": 20404, "name": "conhost.exe", "parent_name": "", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:59:56.475314+00:00", "type": "process_terminated", "pid": 24736, "name": "git.exe"}
+{"ts": "2025-12-27T09:59:56.476007+00:00", "type": "process_terminated", "pid": 17828, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:59:56.476547+00:00", "type": "process_terminated", "pid": 11940, "name": "git.exe"}
+{"ts": "2025-12-27T09:59:56.477043+00:00", "type": "process_terminated", "pid": 20404, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:59:57.282834+00:00", "type": "service_stop"}
