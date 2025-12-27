@@ -1,0 +1,64 @@
+{"ts": "2025-12-27T09:19:47.300050+00:00", "type": "service_start", "interval": 1.0, "dry_run": true}
+{"ts": "2025-12-27T09:19:51.342214+00:00", "type": "process_created", "pid": 16324, "name": "python.exe", "parent_name": "python.exe", "cmdline": "C:\\Users\\Ali\\edr-lite-1\\.venv\\Scripts\\python.exe src/mimikatz.py", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:19:51.342831+00:00", "type": "detection", "rule_id": "detect-mimikatz-sim", "severity": "high", "pid": 16324, "name": "python.exe", "parent_name": "python.exe", "cmdline": "C:\\Users\\Ali\\edr-lite-1\\.venv\\Scripts\\python.exe src/mimikatz.py", "username": "DESKTOP-V4TIS51\\Ali", "response": {"terminate_requested": false, "dry_run": true, "blocked_by_guard": false}}
+{"ts": "2025-12-27T09:19:51.353401+00:00", "type": "process_created", "pid": 27732, "name": "python.exe", "parent_name": "powershell.exe", "cmdline": "C:\\Users\\Ali\\edr-lite-1\\.venv\\Scripts\\python.exe src/mimikatz.py", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:19:51.354141+00:00", "type": "detection", "rule_id": "detect-mimikatz-sim", "severity": "high", "pid": 27732, "name": "python.exe", "parent_name": "powershell.exe", "cmdline": "C:\\Users\\Ali\\edr-lite-1\\.venv\\Scripts\\python.exe src/mimikatz.py", "username": "DESKTOP-V4TIS51\\Ali", "response": {"terminate_requested": false, "dry_run": true, "blocked_by_guard": false}}
+{"ts": "2025-12-27T09:19:54.389931+00:00", "type": "process_created", "pid": 27000, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:19:54.398187+00:00", "type": "process_created", "pid": 26092, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:19:55.406626+00:00", "type": "process_terminated", "pid": 27000, "name": "docker.exe"}
+{"ts": "2025-12-27T09:19:55.407223+00:00", "type": "process_terminated", "pid": 26092, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:20:04.476366+00:00", "type": "process_terminated", "pid": 17444, "name": "<unknown>"}
+{"ts": "2025-12-27T09:20:07.505275+00:00", "type": "process_created", "pid": 27720, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:20:07.511978+00:00", "type": "process_created", "pid": 16460, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:20:08.520936+00:00", "type": "process_terminated", "pid": 27720, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:20:08.521865+00:00", "type": "process_terminated", "pid": 16460, "name": "docker.exe"}
+{"ts": "2025-12-27T09:20:10.536262+00:00", "type": "process_terminated", "pid": 17680, "name": "<unknown>"}
+{"ts": "2025-12-27T09:20:13.344969+00:00", "type": "service_stop"}
+{"ts": "2025-12-27T09:29:49.435864+00:00", "type": "service_start", "interval": 1.0, "dry_run": true}
+{"ts": "2025-12-27T09:29:52.939053+00:00", "type": "process_created", "pid": 25816, "name": "cmd.exe", "parent_name": "Code.exe", "cmdline": "C:\\WINDOWS\\system32\\cmd.exe /d /s /c kubectl config view -o json", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:29:52.947059+00:00", "type": "process_created", "pid": 20320, "name": "conhost.exe", "parent_name": "cmd.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:29:53.955311+00:00", "type": "process_terminated", "pid": 25816, "name": "cmd.exe"}
+{"ts": "2025-12-27T09:29:53.955904+00:00", "type": "process_terminated", "pid": 20320, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:30:02.009363+00:00", "type": "process_terminated", "pid": 26264, "name": "TiWorker.exe"}
+{"ts": "2025-12-27T09:30:02.009724+00:00", "type": "process_terminated", "pid": 26668, "name": "TrustedInstaller.exe"}
+{"ts": "2025-12-27T09:30:04.022904+00:00", "type": "process_terminated", "pid": 27228, "name": "svchost.exe"}
+{"ts": "2025-12-27T09:30:08.957192+00:00", "type": "service_stop"}
+{"ts": "2025-12-27T09:30:48.470471+00:00", "type": "service_start", "interval": 1.0, "dry_run": true}
+{"ts": "2025-12-27T09:30:59.976452+00:00", "type": "process_terminated", "pid": 11648, "name": "RuntimeBroker.exe"}
+{"ts": "2025-12-27T09:31:01.996804+00:00", "type": "process_created", "pid": 23048, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:31:02.003133+00:00", "type": "process_created", "pid": 15156, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:31:03.010327+00:00", "type": "process_terminated", "pid": 23048, "name": "docker.exe"}
+{"ts": "2025-12-27T09:31:03.010721+00:00", "type": "process_terminated", "pid": 15156, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:31:14.113721+00:00", "type": "process_created", "pid": 13512, "name": "Zoom.exe", "parent_name": "svchost.exe", "cmdline": "C:\\Users\\Ali\\AppData\\Roaming\\Zoom\\bin\\Zoom.exe --action=UpdateSchedule", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:31:14.123090+00:00", "type": "process_created", "pid": 22612, "name": "backgroundTaskHost.exe", "parent_name": "svchost.exe", "cmdline": "C:\\WINDOWS\\system32\\backgroundTaskHost.exe -ServerName:ShellFeedsUI.AppXnj65k2d1a1rnztt2t2nng5ctmk3e76pn.mca", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:31:15.164202+00:00", "type": "process_created", "pid": 25644, "name": "WmiPrvSE.exe", "parent_name": "svchost.exe", "cmdline": "", "username": ""}
+{"ts": "2025-12-27T09:31:16.188236+00:00", "type": "process_created", "pid": 23440, "name": "svchost.exe", "parent_name": "services.exe", "cmdline": "", "username": ""}
+{"ts": "2025-12-27T09:31:16.188629+00:00", "type": "process_terminated", "pid": 13512, "name": "Zoom.exe"}
+{"ts": "2025-12-27T09:31:17.202333+00:00", "type": "process_created", "pid": 5392, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:31:17.209602+00:00", "type": "process_created", "pid": 26956, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:31:18.215025+00:00", "type": "process_terminated", "pid": 5392, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:31:18.215408+00:00", "type": "process_terminated", "pid": 26956, "name": "docker.exe"}
+{"ts": "2025-12-27T09:31:22.242402+00:00", "type": "process_terminated", "pid": 24832, "name": "backgroundTaskHost.exe"}
+{"ts": "2025-12-27T09:31:26.286591+00:00", "type": "process_created", "pid": 12268, "name": "python.exe", "parent_name": "powershell.exe", "cmdline": "C:\\Users\\Ali\\edr-lite-1\\.venv\\Scripts\\python.exe src/mimikatz.py", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:31:26.287563+00:00", "type": "detection", "rule_id": "detect-mimikatz-sim", "rule_description": "Detect running mimikatz.py simulator via cmdline", "severity": "high", "pid": 12268, "name": "python.exe", "parent_name": "powershell.exe", "cmdline": "C:\\Users\\Ali\\edr-lite-1\\.venv\\Scripts\\python.exe src/mimikatz.py", "username": "DESKTOP-V4TIS51\\Ali", "response": {"terminate_requested": false, "dry_run": true, "blocked_by_guard": false}}
+{"ts": "2025-12-27T09:31:26.295842+00:00", "type": "process_created", "pid": 14244, "name": "python.exe", "parent_name": "python.exe", "cmdline": "C:\\Users\\Ali\\edr-lite-1\\.venv\\Scripts\\python.exe src/mimikatz.py", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:31:26.296477+00:00", "type": "detection", "rule_id": "detect-mimikatz-sim", "rule_description": "Detect running mimikatz.py simulator via cmdline", "severity": "high", "pid": 14244, "name": "python.exe", "parent_name": "python.exe", "cmdline": "C:\\Users\\Ali\\edr-lite-1\\.venv\\Scripts\\python.exe src/mimikatz.py", "username": "DESKTOP-V4TIS51\\Ali", "response": {"terminate_requested": false, "dry_run": true, "blocked_by_guard": false}}
+{"ts": "2025-12-27T09:31:30.325087+00:00", "type": "process_created", "pid": 26264, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:31:30.332359+00:00", "type": "process_created", "pid": 16460, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:31:31.337762+00:00", "type": "process_terminated", "pid": 26264, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:31:31.338118+00:00", "type": "process_terminated", "pid": 16460, "name": "docker.exe"}
+{"ts": "2025-12-27T09:31:43.429716+00:00", "type": "process_created", "pid": 10708, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:31:43.436029+00:00", "type": "process_created", "pid": 25460, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:31:44.441981+00:00", "type": "process_terminated", "pid": 10708, "name": "docker.exe"}
+{"ts": "2025-12-27T09:31:44.442400+00:00", "type": "process_terminated", "pid": 25460, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:31:52.484671+00:00", "type": "process_terminated", "pid": 13736, "name": "RuntimeBroker.exe"}
+{"ts": "2025-12-27T09:31:56.519801+00:00", "type": "process_created", "pid": 25456, "name": "docker.exe", "parent_name": "Code.exe", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:31:56.526568+00:00", "type": "process_created", "pid": 16444, "name": "conhost.exe", "parent_name": "docker.exe", "cmdline": "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:31:57.531501+00:00", "type": "process_terminated", "pid": 25456, "name": "docker.exe"}
+{"ts": "2025-12-27T09:31:57.531886+00:00", "type": "process_terminated", "pid": 16444, "name": "conhost.exe"}
+{"ts": "2025-12-27T09:32:09.617032+00:00", "type": "process_created", "pid": 20744, "name": "docker.exe", "parent_name": "", "cmdline": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe context ls --format {{json .}}", "username": "DESKTOP-V4TIS51\\Ali"}
+{"ts": "2025-12-27T09:32:09.617451+00:00", "type": "process_created", "pid": 24048, "name": "<unknown>", "error": "NoSuchProcess or AccessDenied"}
+{"ts": "2025-12-27T09:32:10.623919+00:00", "type": "process_terminated", "pid": 20744, "name": "docker.exe"}
+{"ts": "2025-12-27T09:32:10.624338+00:00", "type": "process_terminated", "pid": 24048, "name": "<unknown>"}
+{"ts": "2025-12-27T09:32:15.667807+00:00", "type": "process_terminated", "pid": 22612, "name": "backgroundTaskHost.exe"}
+{"ts": "2025-12-27T09:32:20.667223+00:00", "type": "service_stop"}
