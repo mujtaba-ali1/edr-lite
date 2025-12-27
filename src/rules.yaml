@@ -1,7 +1,22 @@
 rules:
-  - id: block-mimikatz
-    process_name: ["mimikatz.exe"]
+  - id: detect-mimikatz-sim
+    description: Detect running mimikatz.py simulator via cmdline
     severity: high
+    process_name: ["python.exe", "python"]
+    cmdline_contains: ["mimikatz.py"]
     response:
-      alert: true
+      terminate: false
+
+  - id: detect-powershell-start
+    description: Detect PowerShell start events (demo rule)
+    severity: medium
+    process_name: ["powershell.exe", "pwsh.exe"]
+    response:
+      terminate: false
+
+  - id: block-evil-by-name
+    description: Example name-only block list
+    severity: high
+    process_name: ["mimikatz.exe", "eviltool.exe"]
+    response:
       terminate: true
